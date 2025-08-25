@@ -7,6 +7,11 @@
 - Usa **recursividade**, ou seja, a função chama a si mesma para calcular o resultado.
 
 
+#### Exemplo de uso:
+```javascript
+const numero1 = 5;
+console.log(fatorial(numero1)); // Saída: 120
+
 ![](https://i.imgur.com/t7teE1G.png)
 
 
